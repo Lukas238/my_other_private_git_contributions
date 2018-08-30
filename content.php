@@ -24,5 +24,4 @@
         echo "uvlal";
         echo "rqcym";
         echo "yixio";
-        echo "mfoyr";
 ?>
