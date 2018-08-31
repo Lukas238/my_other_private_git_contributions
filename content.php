@@ -23,5 +23,4 @@
         echo "taips";
         echo "uvlal";
         echo "rqcym";
-        echo "yixio";
 ?>
