@@ -25,5 +25,4 @@
         echo "mffkv";
         echo "ghswi";
         echo "afqlw";
-        echo "oaswl";
 ?>
