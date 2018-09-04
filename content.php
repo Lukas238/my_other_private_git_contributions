@@ -24,5 +24,4 @@
         echo "uvlal";
         echo "mffkv";
         echo "ghswi";
-        echo "afqlw";
 ?>
