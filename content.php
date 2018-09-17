@@ -23,5 +23,5 @@
         echo "taips";
         echo "uvlal";
         echo "vjemu";
-        echo "nxtsw";
+        echo "twohm";
 ?>
