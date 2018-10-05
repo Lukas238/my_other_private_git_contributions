@@ -30,6 +30,4 @@
         echo "hjwfr";
         echo "rnbik";
         echo "rbcal";
-        echo "gaonu";
-        echo "yigkm";
 ?>
