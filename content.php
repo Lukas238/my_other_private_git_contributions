@@ -42,5 +42,4 @@
         echo "xknkf";
         echo "rfnvo";
         echo "vailh";
-        echo "lopjx";
 ?>
