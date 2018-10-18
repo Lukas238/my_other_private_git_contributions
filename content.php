@@ -39,5 +39,4 @@
         echo "qthpf";
         echo "vvsdh";
         echo "nelgf";
-        echo "xknkf";
 ?>
