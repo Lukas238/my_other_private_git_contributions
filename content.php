@@ -40,5 +40,4 @@
         echo "vvsdh";
         echo "nelgf";
         echo "xknkf";
-        echo "rfnvo";
 ?>
