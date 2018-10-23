@@ -40,5 +40,4 @@
         echo "vvsdh";
         echo "fgevs";
         echo "cgbpl";
-        echo "ksbsn";
 ?>
