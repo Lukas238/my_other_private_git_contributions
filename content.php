@@ -38,7 +38,4 @@
         echo "qodyn";
         echo "qthpf";
         echo "vvsdh";
-        echo "tgsqy";
-        echo "naajj";
-        echo "bkykx";
 ?>
