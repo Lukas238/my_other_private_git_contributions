@@ -37,10 +37,5 @@
         echo "povqo";
         echo "qodyn";
         echo "qthpf";
-        echo "vvsdh";
-        echo "iaguo";
-        echo "poxbe";
-        echo "lgbfk";
-        echo "mjtra";
-        echo "ksujl";
+        echo "yfuwo";
 ?>
