@@ -1,4 +1,6 @@
 .cgnds { 
   line-height: 49px;
-  border-left-width: 40px;
+  border-bottom-width: 39px;
+  padding-bottom: 10px;
+  margin-bottom: 30px;
 }
