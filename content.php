@@ -38,9 +38,4 @@
         echo "qodyn";
         echo "qthpf";
         echo "yfuwo";
-        echo "vmape";
-        echo "qwnbj";
-        echo "uyfds";
-        echo "haota";
-        echo "cmgdm";
 ?>
