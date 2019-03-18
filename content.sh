@@ -1,1 +1,1 @@
-echo "hniga"
+echo "nosyi"
