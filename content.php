@@ -43,5 +43,4 @@
         echo "istyc";
         echo "rshsn";
         echo "ktwlk";
-        echo "dpbjw";
 ?>
