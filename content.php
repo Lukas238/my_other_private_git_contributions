@@ -64,5 +64,4 @@
         echo "qdqkd";
         echo "ritbr";
         echo "mvhdd";
-        echo "echqf";
 ?>
