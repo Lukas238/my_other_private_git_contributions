@@ -66,5 +66,4 @@
         echo "foorf";
         echo "fwjto";
         echo "dwlra";
-        echo "akowq";
 ?>
