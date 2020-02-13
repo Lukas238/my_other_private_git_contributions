@@ -74,5 +74,4 @@
         echo "nwgxe";
         echo "wreja";
         echo "fujro";
-        echo "dkffd";
 ?>
