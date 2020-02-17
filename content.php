@@ -82,5 +82,4 @@
         echo "bhorm";
         echo "ukkpi";
         echo "yubid";
-        echo "pfstt";
 ?>
