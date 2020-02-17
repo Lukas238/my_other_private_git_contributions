@@ -80,5 +80,4 @@
         echo "nnuse";
         echo "kgbrg";
         echo "bhorm";
-        echo "ukkpi";
 ?>
