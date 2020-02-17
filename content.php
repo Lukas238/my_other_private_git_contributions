@@ -81,5 +81,4 @@
         echo "kgbrg";
         echo "bhorm";
         echo "ukkpi";
-        echo "yubid";
 ?>
