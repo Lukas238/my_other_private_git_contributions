@@ -78,5 +78,4 @@
         echo "rvicn";
         echo "wdodk";
         echo "nnuse";
-        echo "kgbrg";
 ?>
