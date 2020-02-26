@@ -77,5 +77,4 @@
         echo "gvrwh";
         echo "rvicn";
         echo "wdodk";
-        echo "nnuse";
 ?>
