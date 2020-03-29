@@ -105,5 +105,4 @@
         echo "elqwx";
         echo "tuxrw";
         echo "jllnl";
-        echo "rkkep";
 ?>
