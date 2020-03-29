@@ -104,5 +104,4 @@
         echo "prafa";
         echo "elqwx";
         echo "tuxrw";
-        echo "jllnl";
 ?>
