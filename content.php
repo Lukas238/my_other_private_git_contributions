@@ -106,5 +106,4 @@
         echo "tuxrw";
         echo "kgrnh";
         echo "ihyyq";
-        echo "qvnqc";
 ?>
