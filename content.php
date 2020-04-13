@@ -151,5 +151,4 @@
         echo "epuqi";
         echo "xetsu";
         echo "xplam";
-        echo "nxoco";
 ?>
