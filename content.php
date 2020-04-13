@@ -152,5 +152,4 @@
         echo "xetsu";
         echo "xplam";
         echo "nxoco";
-        echo "lirds";
 ?>
