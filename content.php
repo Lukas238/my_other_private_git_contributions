@@ -152,5 +152,4 @@
         echo "xrfgl";
         echo "eeoeq";
         echo "mqoug";
-        echo "barnn";
 ?>
