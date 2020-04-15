@@ -148,9 +148,8 @@
         echo "ewlro";
         echo "vyyiv";
         echo "opdbj";
-        echo "wrcoh";
-        echo "fixjr";
-        echo "ijcor";
-        echo "smdwx";
-        echo "dcbsw";
+        echo "jhrhp";
+        echo "jrdoh";
+        echo "uxasg";
+        echo "dewex";
 ?>
