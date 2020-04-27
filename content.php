@@ -156,5 +156,4 @@
         echo "pwnpu";
         echo "xajsg";
         echo "ttuxp";
-        echo "bqyjd";
 ?>
