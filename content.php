@@ -158,8 +158,6 @@
         echo "rltcc";
         echo "wgmuk";
         echo "fvnfb";
-        echo "pmrjs";
-        echo "cnypg";
-        echo "nqjnm";
-        echo "cictp";
+        echo "ljhtd";
+        echo "xoxjq";
 ?>
