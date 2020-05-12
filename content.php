@@ -167,5 +167,4 @@
         echo "jfhqq";
         echo "ccbna";
         echo "lnrnq";
-        echo "tydtq";
 ?>
