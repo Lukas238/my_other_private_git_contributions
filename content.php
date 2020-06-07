@@ -170,5 +170,4 @@
         echo "hutmx";
         echo "sydlg";
         echo "echcl";
-        echo "hccub";
 ?>
