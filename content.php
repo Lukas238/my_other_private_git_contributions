@@ -166,5 +166,4 @@
         echo "pucfp";
         echo "jfhqq";
         echo "ccbna";
-        echo "syoej";
 ?>
