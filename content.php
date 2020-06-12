@@ -170,5 +170,4 @@
         echo "brjwr";
         echo "qchut";
         echo "pkhks";
-        echo "pborh";
 ?>
