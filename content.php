@@ -167,10 +167,7 @@
         echo "jfhqq";
         echo "knyfa";
         echo "mkakm";
-        echo "pynil";
-        echo "iytve";
-        echo "osfyl";
-        echo "aflrt";
-        echo "jxxdc";
-        echo "oecuc";
+        echo "sixny";
+        echo "odxpe";
+        echo "lluuq";
 ?>
