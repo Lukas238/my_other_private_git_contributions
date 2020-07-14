@@ -169,10 +169,5 @@
         echo "mkakm";
         echo "sixny";
         echo "odxpe";
-        echo "lluuq";
-        echo "frwwq";
-        echo "opbgo";
-        echo "pyusn";
-        echo "hbhiq";
-        echo "ajtov";
+        echo "goagf";
 ?>
