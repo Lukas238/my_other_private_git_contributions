@@ -179,5 +179,4 @@
         echo "yjydo";
         echo "kgomj";
         echo "nmhrt";
-        echo "hewoc";
 ?>
