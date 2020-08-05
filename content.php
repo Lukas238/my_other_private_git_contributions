@@ -176,5 +176,4 @@
         echo "kvlke";
         echo "tsgol";
         echo "jdibn";
-        echo "yjydo";
 ?>
