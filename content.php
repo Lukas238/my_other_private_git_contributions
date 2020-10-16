@@ -178,5 +178,4 @@
         echo "wmdky";
         echo "yxlwd";
         echo "icumd";
-        echo "ixfns";
 ?>
