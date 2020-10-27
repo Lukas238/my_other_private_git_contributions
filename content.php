@@ -180,5 +180,4 @@
         echo "nvplu";
         echo "srdgo";
         echo "mjgob";
-        echo "wpebf";
 ?>
