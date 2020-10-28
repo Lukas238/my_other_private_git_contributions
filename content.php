@@ -177,5 +177,4 @@
         echo "tsgol";
         echo "wmdky";
         echo "carmr";
-        echo "nvplu";
 ?>
