@@ -186,7 +186,6 @@
         echo "rbjtj";
         echo "nxafu";
         echo "wmtdb";
-        echo "hncwp";
-        echo "bwqlv";
-        echo "qwyaw";
+        echo "krnls";
+        echo "tkroy";
 ?>
