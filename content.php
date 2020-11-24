@@ -192,5 +192,4 @@
         echo "psbtq";
         echo "hijal";
         echo "uqlxe";
-        echo "vwwyt";
 ?>
