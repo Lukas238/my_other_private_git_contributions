@@ -188,5 +188,4 @@
         echo "wmtdb";
         echo "krnls";
         echo "tkroy";
-        echo "xeghv";
 ?>
