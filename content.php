@@ -189,5 +189,4 @@
         echo "krnls";
         echo "tkroy";
         echo "xeghv";
-        echo "psbtq";
 ?>
