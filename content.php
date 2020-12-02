@@ -189,10 +189,4 @@
         echo "krnls";
         echo "hctan";
         echo "ujcam";
-        echo "apsxg";
-        echo "qxyux";
-        echo "yxeia";
-        echo "kdosl";
-        echo "qrdul";
-        echo "pyfem";
 ?>
