@@ -190,6 +190,4 @@
         echo "hctan";
         echo "ujcam";
         echo "guums";
-        echo "kmnht";
-        echo "ocenc";
 ?>
