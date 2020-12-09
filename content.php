@@ -191,5 +191,4 @@
         echo "ujcam";
         echo "guums";
         echo "nipbf";
-        echo "htecs";
 ?>
