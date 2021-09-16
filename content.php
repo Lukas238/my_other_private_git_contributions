@@ -213,5 +213,4 @@
         echo "kuryi";
         echo "oouqy";
         echo "dfplc";
-        echo "yoedr";
 ?>
