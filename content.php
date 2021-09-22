@@ -206,5 +206,4 @@
         echo "fexnr";
         echo "kcelr";
         echo "scojm";
-        echo "guexj";
 ?>
