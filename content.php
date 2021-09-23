@@ -207,5 +207,4 @@
         echo "kcelr";
         echo "scojm";
         echo "kebfx";
-        echo "gdkcu";
 ?>
