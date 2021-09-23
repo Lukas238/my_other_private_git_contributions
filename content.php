@@ -206,10 +206,5 @@
         echo "fexnr";
         echo "kcelr";
         echo "scojm";
-        echo "xqxpo";
-        echo "fddyx";
-        echo "dvuac";
-        echo "asqqh";
-        echo "gaebb";
-        echo "bjfbq";
+        echo "kebfx";
 ?>
