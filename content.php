@@ -222,5 +222,4 @@
         echo "cegag";
         echo "ybhhl";
         echo "bnwbb";
-        echo "yolkg";
 ?>
