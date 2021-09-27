@@ -225,5 +225,4 @@
         echo "nratb";
         echo "iwbrd";
         echo "xbtus";
-        echo "tbmym";
 ?>
