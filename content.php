@@ -224,5 +224,4 @@
         echo "chrpn";
         echo "nratb";
         echo "iwbrd";
-        echo "xbtus";
 ?>
