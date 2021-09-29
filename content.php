@@ -223,5 +223,4 @@
         echo "mphlw";
         echo "chrpn";
         echo "lxklq";
-        echo "penet";
 ?>
