@@ -228,5 +228,4 @@
         echo "crrmk";
         echo "sfbuo";
         echo "fvdmm";
-        echo "vdura";
 ?>
