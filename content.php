@@ -236,5 +236,4 @@
         echo "boopl";
         echo "cbhuk";
         echo "ncnhq";
-        echo "tmbti";
 ?>
