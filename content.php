@@ -229,5 +229,4 @@
         echo "ryujk";
         echo "vswaj";
         echo "cgcoj";
-        echo "uivwo";
 ?>
