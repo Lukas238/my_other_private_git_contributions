@@ -228,5 +228,4 @@
         echo "gfxlm";
         echo "ryujk";
         echo "vswaj";
-        echo "cgcoj";
 ?>
