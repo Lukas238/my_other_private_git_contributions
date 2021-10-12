@@ -232,5 +232,4 @@
         echo "lboun";
         echo "vjyhw";
         echo "mjhdc";
-        echo "ptbxr";
 ?>
