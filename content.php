@@ -233,5 +233,4 @@
         echo "vjyhw";
         echo "mjhdc";
         echo "ptbxr";
-        echo "qtdyt";
 ?>
