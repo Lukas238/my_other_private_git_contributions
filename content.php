@@ -247,5 +247,4 @@
         echo "umncf";
         echo "cxbvm";
         echo "nxlde";
-        echo "nguat";
 ?>
