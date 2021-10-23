@@ -244,5 +244,4 @@
         echo "mreho";
         echo "mwtld";
         echo "bdycm";
-        echo "umncf";
 ?>
