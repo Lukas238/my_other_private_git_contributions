@@ -265,4 +265,5 @@
         echo "npupd";
         echo "ptosx";
         echo "swchw";
+        echo "wcxkb";
 ?>
