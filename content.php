@@ -266,4 +266,5 @@
         echo "ptosx";
         echo "swchw";
         echo "wcxkb";
+        echo "ubany";
 ?>
