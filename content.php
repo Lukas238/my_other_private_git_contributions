@@ -264,4 +264,5 @@
         echo "lrfsl";
         echo "npupd";
         echo "ptosx";
+        echo "swchw";
 ?>
