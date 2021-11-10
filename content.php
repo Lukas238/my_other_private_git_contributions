@@ -280,5 +280,4 @@
         echo "buetu";
         echo "okbjl";
         echo "irqsn";
-        echo "djmra";
 ?>
