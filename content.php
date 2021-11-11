@@ -266,17 +266,5 @@
         echo "ptosx";
         echo "swchw";
         echo "wcxkb";
-        echo "ubany";
-        echo "byinn";
-        echo "chyrc";
-        echo "xsqbr";
-        echo "njrjv";
-        echo "qqjcy";
-        echo "ebfio";
-        echo "yphrs";
-        echo "alwma";
-        echo "pafyr";
-        echo "qlhvn";
-        echo "buetu";
-        echo "okbjl";
+        echo "kynlc";
 ?>
