@@ -265,6 +265,18 @@
         echo "npupd";
         echo "ptosx";
         echo "swchw";
-        echo "wcxkb";
-        echo "kynlc";
+        echo "ktonv";
+        echo "lcpwm";
+        echo "mkjbe";
+        echo "kslgk";
+        echo "ydkit";
+        echo "umkwl";
+        echo "phbyc";
+        echo "uvnbp";
+        echo "cdxry";
+        echo "eujiu";
+        echo "wdkuh";
+        echo "xysbi";
+        echo "xbwdo";
+        echo "wrngf";
 ?>
