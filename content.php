@@ -289,5 +289,4 @@
         echo "snpht";
         echo "nhysp";
         echo "rnkct";
-        echo "lxmbn";
 ?>
