@@ -292,12 +292,8 @@
         echo "sjlan";
         echo "jbdqu";
         echo "ecirn";
-        echo "htfuw";
-        echo "avwey";
-        echo "pirwu";
-        echo "esgme";
-        echo "iqlym";
-        echo "xwcoy";
-        echo "lrdhv";
-        echo "upwfw";
+        echo "pfwhf";
+        echo "glcgs";
+        echo "beiiy";
+        echo "eotto";
 ?>
