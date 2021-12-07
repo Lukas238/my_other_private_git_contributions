@@ -310,5 +310,4 @@
         echo "pmkum";
         echo "gwxdl";
         echo "lrknn";
-        echo "atxss";
 ?>
