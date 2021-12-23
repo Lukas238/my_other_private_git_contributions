@@ -336,5 +336,4 @@
         echo "nvpgq";
         echo "nfwcf";
         echo "hgqqk";
-        echo "yhntg";
 ?>
