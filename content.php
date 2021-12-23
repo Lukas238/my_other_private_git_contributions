@@ -333,6 +333,4 @@
         echo "vokuq";
         echo "fhrjg";
         echo "cqtmv";
-        echo "nvpgq";
-        echo "nfwcf";
 ?>
