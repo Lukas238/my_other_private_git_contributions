@@ -342,5 +342,4 @@
         echo "kyyac";
         echo "guhns";
         echo "nhekj";
-        echo "ttybe";
 ?>
