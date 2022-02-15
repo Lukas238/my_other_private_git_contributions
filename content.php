@@ -345,5 +345,4 @@
         echo "pbjgj";
         echo "xuuou";
         echo "nyatq";
-        echo "awhap";
 ?>
