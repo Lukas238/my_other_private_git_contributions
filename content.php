@@ -343,5 +343,4 @@
         echo "guhns";
         echo "nhekj";
         echo "pbjgj";
-        echo "xuuou";
 ?>
