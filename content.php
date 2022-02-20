@@ -347,5 +347,4 @@
         echo "hsunf";
         echo "wfokb";
         echo "xtede";
-        echo "yqqek";
 ?>
