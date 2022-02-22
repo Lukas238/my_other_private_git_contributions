@@ -347,5 +347,4 @@
         echo "hsunf";
         echo "wfokb";
         echo "wpmyp";
-        echo "mffmt";
 ?>
