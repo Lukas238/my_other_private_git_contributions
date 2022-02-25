@@ -346,5 +346,4 @@
         echo "breet";
         echo "pmdsm";
         echo "gexip";
-        echo "ntakx";
 ?>
