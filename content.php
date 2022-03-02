@@ -346,5 +346,4 @@
         echo "breet";
         echo "irdtu";
         echo "bcsri";
-        echo "auskl";
 ?>
