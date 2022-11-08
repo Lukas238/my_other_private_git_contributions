@@ -406,5 +406,4 @@
         echo "rxvsq";
         echo "kbefi";
         echo "jksyg";
-        echo "smqto";
 ?>
