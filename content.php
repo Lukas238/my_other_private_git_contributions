@@ -405,5 +405,4 @@
         echo "apvbi";
         echo "rxvsq";
         echo "kbefi";
-        echo "jksyg";
 ?>
