@@ -37,5 +37,6 @@
   line-height: 77px;
   margin-top: 26px;
   border-top-width: 99px;
-  font-size: 83px;
+  border-left-width: 87px;
+  border-right-width: 12px;
 }
